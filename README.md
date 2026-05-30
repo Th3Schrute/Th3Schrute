@@ -11,7 +11,7 @@
 <div align="center">
 
 ### *"Identity theft is not a joke, Jim. But shipping bad code is a federal crime."*
-*— Dwight K. Schrute*
+*— Th3Schrute*
 
 </div>
 
@@ -20,16 +20,40 @@
 ## 🥇 About Me
 
 ```python
-class DwightKSchrute:
+class Th3Schrute:
     role       = "Assistant (Regional Manager) to the Codebase"
     company    = "Scranton Paper Company — Digital Division"
-    tools      = ["Cursor AI", "GitHub Copilot", "Supabase", "Stripe"]
+    tools      = [
+        # AI & Intelligence
+        "Cursor AI", "GitHub Copilot", "OpenAI", "Claude (Anthropic)",
+        "LangChain", "n8n", "Make (Integromat)",
+        # Backend & Databases
+        "Supabase", "PostgreSQL", "FastAPI", "Node.js", "Prisma",
+        # Payments & Auth
+        "Stripe", "Clerk",
+        # Frontend & Mobile
+        "React", "Next.js", "TypeScript", "Vite", "SwiftUI", "Xcode",
+        # Automation & Data
+        "Python", "Selenium", "Pandas", "Beautiful Soup", "Playwright",
+        # DevOps & Deployment
+        "Git", "GitHub Actions", "Vercel", "Docker", "Supabase Edge Functions",
+        # Space Division (classified)
+        "SpaceX Starlink API (probably)", "NASA Open APIs",
+    ]
     superpower = "Building AI-powered software at superhuman speed"
-    side_quest = "Beet farming & nunchuck mastery"
-    mission    = "Build technology that makes the world undeniably better"
+    side_quest = "Beet farming, nunchuck mastery & getting Schrute Farms on Mars"
+    mission    = """
+        To build technology so extraordinarily powerful, so ruthlessly efficient,
+        so undeniably brilliant — that the world doesn't just get better,
+        it has absolutely no choice. That's what I would do. And I will.
+        You're welcome, Earth. You're welcome, Mars.
+    """
 
     def philosophy(self):
-        return "Bears. Beets. Brilliant Software."
+        return "Bears. Beets. Brilliant Software. Beyond Earth."
+
+    def on_mars_arrival(self):
+        return "I will be the Assistant (Regional Manager) to the Mars Colony. Obviously."
 ```
 
 I build real products — **iOS apps**, **PropTech platforms**, **web scrapers**, and **AI-powered tools** — using [Cursor IDE](https://cursor.sh) to move at 10x speed. Whether I'm automating property data pipelines or shipping a Swift game, the standard is always the same: **it must work perfectly or not at all.**
@@ -103,7 +127,24 @@ I build real products — **iOS apps**, **PropTech platforms**, **web scrapers**
 
 ---
 
-## 📋 Dwight's 5 Immutable Laws of Code
+## 🚀 Schrute Farms Mars Division — Side Quest Status: *Active*
+
+> *"It is not a matter of if Schrute Farms goes to Mars. It is a matter of when. I have already begun soil pH analysis for Martian regolith."*
+
+### 3 Ways Th3Schrute's Traits Are Converging With AI, Space & Rockets
+
+**I. Ruthless Efficiency × AI Automation**
+Schrute Farms operates on pure optimization. No wasted motion. No wasted bytes. The same obsessive discipline that governs beet harvest scheduling is now being applied to AI automation pipelines — training models to outperform, outscale, and outlast. On Mars, water is scarce. CPU cycles are not. Automate everything. Survive everything.
+
+**II. Survivalist Preparedness × Rocket Engineering**
+A man who carries a hand-crossbow to work and has a backup generator for his backup generator does not board a rocket unprepared. Every system has a redundancy. Every redundancy has a redundancy. This is not paranoia. This is Mars-grade engineering discipline. If SpaceX won't put Schrute Farms on the manifest, Th3Schrute will build the manifest app himself.
+
+**III. Authoritarian Leadership × Martian Colony Management**
+Someone has to be in charge up there. The colony will need structure. Hierarchy. A bear-proof perimeter. An Assistant (Regional Manager) to the Commander who is also effectively the Commander. Th3Schrute is already building the AI-powered governance tools that any serious off-world civilization will require. Jim is not on the list.
+
+---
+
+## 📋 Th3Schrute's 5 Immutable Laws of Code
 
 > **Law I** — A function that does more than one thing is not a function. It is chaos. Refactor it immediately.
 
@@ -133,7 +174,7 @@ I build real products — **iOS apps**, **PropTech platforms**, **web scrapers**
 
 *"Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love my software."*
 
-**— Dwight K. Schrute, Regional Manager (of this repository)**
+**— Th3Schrute, Regional Manager (of this repository and eventually Mars)**
 
 ![Bears](https://img.shields.io/badge/Bears-🐻-brown?style=flat-square)
 ![Beets](https://img.shields.io/badge/Beets-🌱-green?style=flat-square)
