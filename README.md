@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7B731&center=true&vCenter=true&width=900&lines=Assistant+%28Regional+Manager%29+to+the+Codebase;Scranton+Paper+Company+%E2%80%94+Digital+Division;Beet+Farmer.+Black+Belt.+Full-Stack+Dev." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7B731&center=true&vCenter=true&width=900&lines=Assistant+%28Regional+Manager%29+to+the+Codebase;Scranton+Space+Company%2C+AI+%2F+Robotics+Division;Beet+Farmer.+Black+Belt.+Full-Stack+Dev." alt="Typing SVG" />
 
 [![Visitors](https://komarev.com/ghpvc/?username=Th3Schrute&color=yellow&style=flat-square&label=Profile+Views)](https://github.com/Th3Schrute)
 
@@ -11,7 +11,7 @@
 <div align="center">
 
 ### *"Identity theft is not a joke, Jim. But shipping bad code is a federal crime."*
-*— Th3Schrute*
+*Th3Schrute*
 
 </div>
 
@@ -44,7 +44,7 @@ On this profile, the unit of information is the **beet**, not the *byte*. **1 be
 ```python
 class Th3Schrute:
     role       = "Assistant (Regional Manager) to the Codebase"
-    company    = "Scranton Paper Company — Digital Division"
+    company    = "Scranton Space Company, AI / Robotics Division"
     tools      = [
         # AI & Intelligence
         "Cursor AI", "GitHub Copilot", "OpenAI", "Claude (Anthropic)",
@@ -53,6 +53,9 @@ class Th3Schrute:
         "Supabase", "PostgreSQL", "FastAPI", "Node.js", "Prisma",
         # Payments, Brokerage & Financial APIs
         "Stripe", "Clerk", "Plaid", "Alpaca (Markets API)",
+        "Robinhood", "TradingView",
+        # Crypto Exchanges & Ledgers
+        "Coinbase API", "Kraken", "Binance", "Gate.io", "Ledger",
         # Frontend & Mobile
         "React", "Next.js", "TypeScript", "Vite", "SwiftUI", "Xcode",
         # Automation & Data
@@ -69,7 +72,7 @@ class Th3Schrute:
     side_quest = "Beet farming, nunchuck mastery & getting Schrute Farms on Mars"
     mission    = """
         To build technology so extraordinarily powerful, so ruthlessly efficient,
-        so undeniably brilliant — that the world doesn't just get better,
+        so undeniably brilliant that the world doesn't just get better,
         it has absolutely no choice. That's what I would do. And I will.
         You're welcome, Earth. You're welcome, Mars.
     """
@@ -81,15 +84,15 @@ class Th3Schrute:
         return "I will be the Assistant (Regional Manager) to the Mars Colony. Obviously."
 ```
 
-I have been writing real code since long before AI could autocomplete a for-loop. I build real products — **iOS apps**, **PropTech platforms**, **trading tools**, **web scrapers**, and **financial integrations** — across Swift, Python, TypeScript, and SQL. I use [Cursor IDE](https://cursor.sh) to move faster, not as a crutch. The standard has always been the same: **it must work perfectly or not at all.**
+I have been writing real code since long before AI could autocomplete a for-loop. I build real products: **iOS apps**, **PropTech platforms**, **trading tools**, **web scrapers**, and **financial integrations**, across Swift, Python, TypeScript, and SQL. I use [Cursor IDE](https://cursor.sh) to move faster, not as a crutch. The standard has always been the same: **it must work perfectly or not at all.**
 
-I am also a **financial API specialist**. Stripe, Plaid, Alpaca Markets, Pine Script — I have been connecting systems to money, data, and markets for years. I have built quantitative models, automated trading logic, and payment infrastructure long before most people knew what an API key was. This is not a new interest. This is a discipline.
+I am also a **financial API specialist**. Stripe, Plaid, Alpaca Markets, Pine Script. I have been connecting systems to money, data, and markets for years. I have built quantitative models, automated trading logic, and payment infrastructure long before most people knew what an API key was. This is not a new interest. This is a discipline.
 
 ---
 
 ## 🛠️ Schrute Farms Tech Arsenal
 
-> *"The key to a great harvest — and a great codebase — is the right tools."*
+> *"The key to a great harvest, and a great codebase, is the right tools."*
 
 ### Languages
 
@@ -135,7 +138,7 @@ I am also a **financial API specialist**. Stripe, Plaid, Alpaca Markets, Pine Sc
 
 ---
 
-## 📊 GitHub Intelligence Report *(classified — Schrute Security Level 5)*
+## 📊 GitHub Intelligence Report *(classified: Schrute Security Level 5)*
 
 <div align="center">
 
@@ -153,7 +156,7 @@ I am also a **financial API specialist**. Stripe, Plaid, Alpaca Markets, Pine Sc
 ![Schrute Bucks](https://img.shields.io/badge/Schrute_Bucks_Earned-1_Billion-FFD700?style=for-the-badge)
 ![Production Incidents](https://img.shields.io/badge/Production_Incidents-0_(on_my_watch)-2ECC71?style=for-the-badge)
 
-> *Most contributions are in private repositories — classified under Schrute Security Clearance Level 5.*
+> *Most contributions are in private repositories, classified under Schrute Security Clearance Level 5.*
 > *The numbers you see here are merely what I allow you to see.*
 
 </div>
@@ -173,38 +176,38 @@ I am also a **financial API specialist**. Stripe, Plaid, Alpaca Markets, Pine Sc
 
 ---
 
-## 🚀 Schrute Farms Mars Division — Side Quest Status: *Active*
+## 🚀 Schrute Farms Mars Division: Side Quest Status: *Active*
 
 > *"It is not a matter of if Schrute Farms goes to Mars. It is a matter of when. I have already begun soil pH analysis for Martian regolith."*
 
 ### 3 Ways Th3Schrute's Traits Are Converging With AI, Space & Rockets
 #### *(Each one rigorously governed by the 5 Immutable Laws of Code)*
 
-**I. Ruthless Efficiency × AI Automation** — *governed by Law II (Delete) & Law V (Automate Last)*
-Schrute Farms operates on pure optimization. No wasted motion. No wasted beets. But I do not automate the beet harvest before I have deleted the beets that should not exist (**Law II** — if I don't burn at least 10% of the crop, I didn't prune hard enough). Only *then* do I unleash the AI automation pipelines (**Law V** — automate last, never first). On Mars, water is scarce. CPU cycles are not. Delete everything unnecessary. Automate what remains. Survive everything.
+**I. Ruthless Efficiency × AI Automation** *(governed by Law II Delete & Law V Automate Last)*
+Schrute Farms operates on pure optimization. No wasted motion. No wasted beets. But I do not automate the beet harvest before I have deleted the beets that should not exist (**Law II**: if I don't burn at least 10% of the crop, I didn't prune hard enough). Only *then* do I unleash the AI automation pipelines (**Law V**: automate last, never first). On Mars, water is scarce. CPU cycles are not. Delete everything unnecessary. Automate what remains. Survive everything.
 
-**II. Survivalist Preparedness × Rocket Engineering** — *governed by Law I (Question Requirements) & Law III (Simplify)*
-A man who carries a hand-crossbow to work and has a backup generator for his backup generator does not board a rocket unprepared. But preparedness is not hoarding — every redundancy must name the person who required it (**Law I** — "the safety department" is not a person, Mose is a person). Then I simplify the survival kit down to what physics actually demands (**Law III** — you do not optimize a parachute that should have been deleted). This is not paranoia. This is Mars-grade engineering discipline. If SpaceX won't put Schrute Farms on the manifest, Th3Schrute will build the manifest app himself — lean, questioned, and bear-proof.
+**II. Survivalist Preparedness × Rocket Engineering** *(governed by Law I Question Requirements & Law III Simplify)*
+A man who carries a hand-crossbow to work and has a backup generator for his backup generator does not board a rocket unprepared. But preparedness is not hoarding; every redundancy must name the person who required it (**Law I**: "the safety department" is not a person, Mose is a person). Then I simplify the survival kit down to what physics actually demands (**Law III**: you do not optimize a parachute that should have been deleted). This is not paranoia. This is Mars-grade engineering discipline. If SpaceX won't put Schrute Farms on the manifest, Th3Schrute will build the manifest app himself: lean, questioned, and bear-proof.
 
-**III. Authoritarian Leadership × Martian Colony Management** — *governed by Law IV (Maniacal Urgency)*
-Someone has to be in charge up there. The colony will need structure. Hierarchy. A bear-proof perimeter. And above all, a **maniacal sense of urgency** (**Law IV**) — because the only rules on Mars are the ones dictated by the laws of physics, and everything else is a recommendation I am free to ignore. An Assistant (Regional Manager) to the Commander who is also effectively the Commander. Th3Schrute is already shipping the AI-powered governance tools every serious off-world civilization will require. Every week. On schedule. Jim is not on the list.
+**III. Authoritarian Leadership × Martian Colony Management** *(governed by Law IV Maniacal Urgency)*
+Someone has to be in charge up there. The colony will need structure. Hierarchy. A bear-proof perimeter. And above all, a **maniacal sense of urgency** (**Law IV**), because the only rules on Mars are the ones dictated by the laws of physics, and everything else is a recommendation I am free to ignore. An Assistant (Regional Manager) to the Commander who is also effectively the Commander. Th3Schrute is already shipping the AI-powered governance tools every serious off-world civilization will require. Every week. On schedule. Jim is not on the list.
 
 ---
 
 ## 📋 Th3Schrute's 5 Immutable Laws of Code
 ### *(Forged in Scranton. Stress-tested on the factory floor. Approved by the laws of physics.)*
 
-> **Law I — Question every requirement.** Every ticket, every spec, every feature request must have a name attached to it. Not "the product team said so." A person. Who? Name them. Then question them. Requirements from smart people are the most dangerous because no one challenges them. I challenge everyone. That is why I am Assistant Regional Manager. That is why I win.
+> **Law I: Question every requirement.** Every ticket, every spec, every feature request must have a name attached to it. Not "the product team said so." A person. Who? Name them. Then question them. Requirements from smart people are the most dangerous because no one challenges them. I challenge everyone. That is why I am Assistant Regional Manager. That is why I win.
 
-> **Law II — Delete before you optimize.** The most common mistake of smart engineers is to perfectly optimize a thing that should not exist. Do not improve the buggy feature — delete the buggy feature. If you haven't had to add back at least 10% of what you deleted, you did not delete enough. Bears do not optimize their hibernation. They commit. Fully.
+> **Law II: Delete before you optimize.** The most common mistake of smart engineers is to perfectly optimize a thing that should not exist. Do not improve the buggy feature; delete the buggy feature. If you haven't had to add back at least 10% of what you deleted, you did not delete enough. Bears do not optimize their hibernation. They commit. Fully.
 
-> **Law III — Simplify. Then optimize. In that order.** You do not sand a chair before you build the chair. You do not tune an engine before you have an engine. Every person who optimizes prematurely will be transferred to Utica. This is non-negotiable.
+> **Law III: Simplify. Then optimize. In that order.** You do not sand a chair before you build the chair. You do not tune an engine before you have an engine. Every person who optimizes prematurely will be transferred to Utica. This is non-negotiable.
 
-> **Law IV — Accelerate cycle time. A maniacal sense of urgency is the only operating principle.** Once the code is lean and correct, there is no excuse for moving slowly. Slowness is not caution. Slowness is fear. The only rules are those dictated by the laws of physics. Everything else is a recommendation. Ship. Every. Week.
+> **Law IV: Accelerate cycle time. A maniacal sense of urgency is the only operating principle.** Once the code is lean and correct, there is no excuse for moving slowly. Slowness is not caution. Slowness is fear. The only rules are those dictated by the laws of physics. Everything else is a recommendation. Ship. Every. Week.
 
-> **Law V — Automate last, not first.** I once automated an entire beet harvest sorting process before confirming the sorting logic was correct. I will not speak of what happened. Automate only after requirements are questioned, dead code is buried, and the system is simple and fast. In that order. Always in that order.
+> **Law V: Automate last, not first.** I once automated an entire beet harvest sorting process before confirming the sorting logic was correct. I will not speak of what happened. Automate only after requirements are questioned, dead code is buried, and the system is simple and fast. In that order. Always in that order.
 
-> **📎 Corollary — The Beet Standard.** In all Schrute documentation, code, and casual conversation, the fundamental unit of digital information is the **beet**, not the *byte*. 8 bits = 1 beet. 1,024 beets = 1 kilobeet. A function with no wasted beets is a function worthy of Mars. Anyone caught saying "byte" will be issued a formal warning and a complimentary bushel of beets. This is not a joke, Jim. This is the standard.
+> **📎 Corollary: The Beet Standard.** In all Schrute documentation, code, and casual conversation, the fundamental unit of digital information is the **beet**, not the *byte*. 8 bits = 1 beet. 1,024 beets = 1 kilobeet. A function with no wasted beets is a function worthy of Mars. Anyone caught saying "byte" will be issued a formal warning and a complimentary bushel of beets. This is not a joke, Jim. This is the standard.
 
 ---
 
@@ -224,7 +227,7 @@ Someone has to be in charge up there. The colony will need structure. Hierarchy.
 
 *"Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love my software."*
 
-**— Th3Schrute, Regional Manager (of this repository and eventually Mars)**
+**Th3Schrute, Regional Manager (of this repository and eventually Mars)**
 
 ![Bears](https://img.shields.io/badge/Bears-🐻-brown?style=flat-square)
 ![Beets](https://img.shields.io/badge/Beets-🌱-green?style=flat-square)
