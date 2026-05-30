@@ -43,6 +43,7 @@ class Th3Schrute:
         "SpaceX Starlink API (probably)", "NASA Open APIs",
     ]
     superpower = "Writing real code since before AI could spell 'Python'"
+    specialization = "Financial APIs, quantitative models & market infrastructure"
     side_quest = "Beet farming, nunchuck mastery & getting Schrute Farms on Mars"
     mission    = """
         To build technology so extraordinarily powerful, so ruthlessly efficient,
@@ -59,6 +60,8 @@ class Th3Schrute:
 ```
 
 I have been writing real code since long before AI could autocomplete a for-loop. I build real products — **iOS apps**, **PropTech platforms**, **trading tools**, **web scrapers**, and **financial integrations** — across Swift, Python, TypeScript, and SQL. I use [Cursor IDE](https://cursor.sh) to move faster, not as a crutch. The standard has always been the same: **it must work perfectly or not at all.**
+
+I am also a **financial API specialist**. Stripe, Plaid, Alpaca Markets, Pine Script — I have been connecting systems to money, data, and markets for years. I have built quantitative models, automated trading logic, and payment infrastructure long before most people knew what an API key was. This is not a new interest. This is a discipline.
 
 ---
 
