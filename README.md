@@ -29,18 +29,20 @@ class Th3Schrute:
         "LangChain", "n8n", "Make (Integromat)",
         # Backend & Databases
         "Supabase", "PostgreSQL", "FastAPI", "Node.js", "Prisma",
-        # Payments & Auth
-        "Stripe", "Clerk",
+        # Payments, Brokerage & Financial APIs
+        "Stripe", "Clerk", "Plaid", "Alpaca (Markets API)",
         # Frontend & Mobile
         "React", "Next.js", "TypeScript", "Vite", "SwiftUI", "Xcode",
         # Automation & Data
         "Python", "Selenium", "Pandas", "Beautiful Soup", "Playwright",
         # DevOps & Deployment
         "Git", "GitHub Actions", "Vercel", "Docker", "Supabase Edge Functions",
+        # Trading & Charting
+        "Pine Script (TradingView)", "Private APIs (classified)",
         # Space Division (classified)
         "SpaceX Starlink API (probably)", "NASA Open APIs",
     ]
-    superpower = "Building AI-powered software at superhuman speed"
+    superpower = "Writing real code since before AI could spell 'Python'"
     side_quest = "Beet farming, nunchuck mastery & getting Schrute Farms on Mars"
     mission    = """
         To build technology so extraordinarily powerful, so ruthlessly efficient,
@@ -56,7 +58,7 @@ class Th3Schrute:
         return "I will be the Assistant (Regional Manager) to the Mars Colony. Obviously."
 ```
 
-I build real products — **iOS apps**, **PropTech platforms**, **web scrapers**, and **AI-powered tools** — using [Cursor IDE](https://cursor.sh) to move at 10x speed. Whether I'm automating property data pipelines or shipping a Swift game, the standard is always the same: **it must work perfectly or not at all.**
+I have been writing real code since long before AI could autocomplete a for-loop. I build real products — **iOS apps**, **PropTech platforms**, **trading tools**, **web scrapers**, and **financial integrations** — across Swift, Python, TypeScript, and SQL. I use [Cursor IDE](https://cursor.sh) to move faster, not as a crutch. The standard has always been the same: **it must work perfectly or not at all.**
 
 ---
 
@@ -85,6 +87,13 @@ I build real products — **iOS apps**, **PropTech platforms**, **web scrapers**
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![Plaid](https://img.shields.io/badge/Plaid-000000?style=for-the-badge&logo=plaid&logoColor=white)
+![Alpaca](https://img.shields.io/badge/Alpaca_Markets-FECD00?style=for-the-badge&logo=alpaca&logoColor=black)
+
+### Trading & Charting
+
+![PineScript](https://img.shields.io/badge/Pine_Script-1E1E2E?style=for-the-badge&logo=tradingview&logoColor=white)
+![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
 
 ### Automation & Scraping
 
@@ -105,11 +114,14 @@ I build real products — **iOS apps**, **PropTech platforms**, **web scrapers**
 
 <div align="center">
 
-![Th3Schrute GitHub Stats](https://github-readme-stats.vercel.app/api?username=Th3Schrute&show_icons=true&theme=gruvbox&hide_border=true&count_private=true)
+![Th3Schrute 2026 Stats](https://github-readme-stats.vercel.app/api?username=Th3Schrute&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=false&custom_title=2026+Contributions+%28YTD%29)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Schrute&layout=compact&theme=gruvbox&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Th3Schrute&theme=gruvbox&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Th3Schrute&theme=gruvbox&hide_border=true&mode=weekly&from_date=2026-01-01)
+
+> *Most contributions are in private repositories — classified under Schrute Security Clearance Level 5.*
+> *The numbers you see here are merely what I allow you to see.*
 
 </div>
 
@@ -121,9 +133,10 @@ I build real products — **iOS apps**, **PropTech platforms**, **web scrapers**
 |--------|-------|--------|
 | 🏠 **PropTech / Real Estate** | React · TypeScript · Supabase · Stripe | Shipping |
 | 📱 **iOS Applications** | Swift · SwiftUI · Xcode | Shipping |
+| 📈 **Trading & Finance Tools** | Python · Alpaca · Plaid · Pine Script | Active |
 | 🤖 **Web Scrapers & Automation** | Python · Selenium · Pandas | Active |
 | 🎮 **iOS Game Development** | Swift · SpriteKit | Active |
-| 🧠 **AI-Assisted Tooling** | Cursor AI · OpenAI · Python | Always |
+| 🕵️ **Jim feeds me the intel** | Cursor AI · OpenAI · Python | *"Jim feeds me the intel. I execute the mission. The operation is never compromised."* |
 
 ---
 
@@ -145,16 +158,17 @@ Someone has to be in charge up there. The colony will need structure. Hierarchy.
 ---
 
 ## 📋 Th3Schrute's 5 Immutable Laws of Code
+### *(Forged in Scranton. Stress-tested on the factory floor. Approved by the laws of physics.)*
 
-> **Law I** — A function that does more than one thing is not a function. It is chaos. Refactor it immediately.
+> **Law I — Question every requirement.** Every ticket, every spec, every feature request must have a name attached to it. Not "the product team said so." A person. Who? Name them. Then question them. Requirements from smart people are the most dangerous because no one challenges them. I challenge everyone. That is why I am Assistant Regional Manager. That is why I win.
 
-> **Law II** — `console.log` debugging is for people who have given up. Use a real debugger. Like a professional.
+> **Law II — Delete before you optimize.** The most common mistake of smart engineers is to perfectly optimize a thing that should not exist. Do not improve the buggy feature — delete the buggy feature. If you haven't had to add back at least 10% of what you deleted, you did not delete enough. Bears do not optimize their hibernation. They commit. Fully.
 
-> **Law III** — Every project needs a README. Every README needs to be read. Every person who skips the README will be sent to Utica.
+> **Law III — Simplify. Then optimize. In that order.** You do not sand a chair before you build the chair. You do not tune an engine before you have an engine. Every person who optimizes prematurely will be transferred to Utica. This is non-negotiable.
 
-> **Law IV** — If your database has no indexes, your database has no future. Index everything that matters. Like beets in dry soil.
+> **Law IV — Accelerate cycle time. A maniacal sense of urgency is the only operating principle.** Once the code is lean and correct, there is no excuse for moving slowly. Slowness is not caution. Slowness is fear. The only rules are those dictated by the laws of physics. Everything else is a recommendation. Ship. Every. Week.
 
-> **Law V** — Ship. Every. Week. The code on your laptop helps no one.
+> **Law V — Automate last, not first.** I once automated an entire beet harvest sorting process before confirming the sorting logic was correct. I will not speak of what happened. Automate only after requirements are questioned, dead code is buried, and the system is simple and fast. In that order. Always in that order.
 
 ---
 
