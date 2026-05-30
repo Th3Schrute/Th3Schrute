@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7B731&center=true&vCenter=true&width=700&lines=Assistant+%28Regional+Manager%29+to+the+Codebase;Scranton+Paper+Company+%E2%80%94+Digital+Division;Beet+Farmer.+Black+Belt.+Full-Stack+Dev." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7B731&center=true&vCenter=true&width=900&lines=Assistant+%28Regional+Manager%29+to+the+Codebase;Scranton+Paper+Company+%E2%80%94+Digital+Division;Beet+Farmer.+Black+Belt.+Full-Stack+Dev." alt="Typing SVG" />
 
 [![Visitors](https://komarev.com/ghpvc/?username=Th3Schrute&color=yellow&style=flat-square&label=Profile+Views)](https://github.com/Th3Schrute)
 
