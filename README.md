@@ -17,6 +17,28 @@
 
 ---
 
+<div align="center">
+
+### 🌱 A Riddle Before You Continue
+
+> *Eight bits to a bunch, the smallest you'll compute,*
+> *yet I grow in dark soil, pulled crimson from the root.*
+> *Read me wrong on this farm and you'll call it a typo,*
+> *but what am I, harvested by computers and Schrutes alike?*
+
+<details>
+<summary><i>Click only if you have given up (cowards welcome)</i></summary>
+
+<br>
+
+On this profile, the unit of information is the **beet**, not the *byte*. **1 beet = 1 byte.** It is not a typo. It is doctrine. *(See: The Beet Standard, below.)*
+
+</details>
+
+</div>
+
+---
+
 ## 🥇 About Me
 
 ```python
@@ -121,7 +143,15 @@ I am also a **financial API specialist**. Stripe, Plaid, Alpaca Markets, Pine Sc
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Schrute&layout=compact&theme=gruvbox&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Th3Schrute&theme=gruvbox&hide_border=true&mode=weekly&from_date=2026-01-01)
+### 🗂️ Classified Field Metrics *(declassified for recruiters only)*
+
+![Beets Harvested](https://img.shields.io/badge/Beets_Harvested-9%2C001-8B0000?style=for-the-badge)
+![Bugs Squashed](https://img.shields.io/badge/Bugs_Squashed-∞-success?style=for-the-badge)
+![Bears Survived](https://img.shields.io/badge/Bears_Survived-12-795548?style=for-the-badge)
+
+![Identity Thefts Prevented](https://img.shields.io/badge/Identity_Thefts_Prevented-1_(Jim)-F7B731?style=for-the-badge)
+![Schrute Bucks](https://img.shields.io/badge/Schrute_Bucks_Earned-1_Billion-FFD700?style=for-the-badge)
+![Production Incidents](https://img.shields.io/badge/Production_Incidents-0_(on_my_watch)-2ECC71?style=for-the-badge)
 
 > *Most contributions are in private repositories — classified under Schrute Security Clearance Level 5.*
 > *The numbers you see here are merely what I allow you to see.*
@@ -148,15 +178,16 @@ I am also a **financial API specialist**. Stripe, Plaid, Alpaca Markets, Pine Sc
 > *"It is not a matter of if Schrute Farms goes to Mars. It is a matter of when. I have already begun soil pH analysis for Martian regolith."*
 
 ### 3 Ways Th3Schrute's Traits Are Converging With AI, Space & Rockets
+#### *(Each one rigorously governed by the 5 Immutable Laws of Code)*
 
-**I. Ruthless Efficiency × AI Automation**
-Schrute Farms operates on pure optimization. No wasted motion. No wasted bytes. The same obsessive discipline that governs beet harvest scheduling is now being applied to AI automation pipelines — training models to outperform, outscale, and outlast. On Mars, water is scarce. CPU cycles are not. Automate everything. Survive everything.
+**I. Ruthless Efficiency × AI Automation** — *governed by Law II (Delete) & Law V (Automate Last)*
+Schrute Farms operates on pure optimization. No wasted motion. No wasted beets. But I do not automate the beet harvest before I have deleted the beets that should not exist (**Law II** — if I don't burn at least 10% of the crop, I didn't prune hard enough). Only *then* do I unleash the AI automation pipelines (**Law V** — automate last, never first). On Mars, water is scarce. CPU cycles are not. Delete everything unnecessary. Automate what remains. Survive everything.
 
-**II. Survivalist Preparedness × Rocket Engineering**
-A man who carries a hand-crossbow to work and has a backup generator for his backup generator does not board a rocket unprepared. Every system has a redundancy. Every redundancy has a redundancy. This is not paranoia. This is Mars-grade engineering discipline. If SpaceX won't put Schrute Farms on the manifest, Th3Schrute will build the manifest app himself.
+**II. Survivalist Preparedness × Rocket Engineering** — *governed by Law I (Question Requirements) & Law III (Simplify)*
+A man who carries a hand-crossbow to work and has a backup generator for his backup generator does not board a rocket unprepared. But preparedness is not hoarding — every redundancy must name the person who required it (**Law I** — "the safety department" is not a person, Mose is a person). Then I simplify the survival kit down to what physics actually demands (**Law III** — you do not optimize a parachute that should have been deleted). This is not paranoia. This is Mars-grade engineering discipline. If SpaceX won't put Schrute Farms on the manifest, Th3Schrute will build the manifest app himself — lean, questioned, and bear-proof.
 
-**III. Authoritarian Leadership × Martian Colony Management**
-Someone has to be in charge up there. The colony will need structure. Hierarchy. A bear-proof perimeter. An Assistant (Regional Manager) to the Commander who is also effectively the Commander. Th3Schrute is already building the AI-powered governance tools that any serious off-world civilization will require. Jim is not on the list.
+**III. Authoritarian Leadership × Martian Colony Management** — *governed by Law IV (Maniacal Urgency)*
+Someone has to be in charge up there. The colony will need structure. Hierarchy. A bear-proof perimeter. And above all, a **maniacal sense of urgency** (**Law IV**) — because the only rules on Mars are the ones dictated by the laws of physics, and everything else is a recommendation I am free to ignore. An Assistant (Regional Manager) to the Commander who is also effectively the Commander. Th3Schrute is already shipping the AI-powered governance tools every serious off-world civilization will require. Every week. On schedule. Jim is not on the list.
 
 ---
 
@@ -172,6 +203,8 @@ Someone has to be in charge up there. The colony will need structure. Hierarchy.
 > **Law IV — Accelerate cycle time. A maniacal sense of urgency is the only operating principle.** Once the code is lean and correct, there is no excuse for moving slowly. Slowness is not caution. Slowness is fear. The only rules are those dictated by the laws of physics. Everything else is a recommendation. Ship. Every. Week.
 
 > **Law V — Automate last, not first.** I once automated an entire beet harvest sorting process before confirming the sorting logic was correct. I will not speak of what happened. Automate only after requirements are questioned, dead code is buried, and the system is simple and fast. In that order. Always in that order.
+
+> **📎 Corollary — The Beet Standard.** In all Schrute documentation, code, and casual conversation, the fundamental unit of digital information is the **beet**, not the *byte*. 8 bits = 1 beet. 1,024 beets = 1 kilobeet. A function with no wasted beets is a function worthy of Mars. Anyone caught saying "byte" will be issued a formal warning and a complimentary bushel of beets. This is not a joke, Jim. This is the standard.
 
 ---
 
