@@ -27,8 +27,6 @@
 > *but what am I, harvested by computers and Schrutes alike?*
 
 <details>
-<summary><i>Click only if you have given up (cowards welcome)</i></summary>
-
 <br>
 
 On this profile, the unit of information is the **beet**, not the *byte*. **1 beet = 1 byte.** It is not a typo. It is doctrine. *(See: The Beet Standard, below.)*
@@ -87,6 +85,8 @@ class Th3Schrute:
 I have been writing real code since long before AI could autocomplete a for-loop. I build real products: **iOS apps**, **PropTech platforms**, **trading tools**, **web scrapers**, and **financial integrations**, across Swift, Python, TypeScript, and SQL. I use [Cursor IDE](https://cursor.sh) to move faster, not as a crutch. The standard has always been the same: **it must work perfectly or not at all.**
 
 I am also a **financial API specialist**. Stripe, Plaid, Alpaca Markets, Pine Script. I have been connecting systems to money, data, and markets for years. I have built quantitative models, automated trading logic, and payment infrastructure long before most people knew what an API key was. This is not a new interest. This is a discipline.
+
+At the core, I work from first principles: define the constraint, remove the waste, then automate the repeatable parts. The joke comes after the system works.
 
 ---
 
@@ -152,7 +152,7 @@ I am also a **financial API specialist**. Stripe, Plaid, Alpaca Markets, Pine Sc
 ![Bugs Squashed](https://img.shields.io/badge/Bugs_Squashed-∞-success?style=for-the-badge)
 ![Bears Survived](https://img.shields.io/badge/Bears_Survived-12-795548?style=for-the-badge)
 
-![Identity Thefts Prevented](https://img.shields.io/badge/Identity_Thefts_Prevented-1_(Jim)-F7B731?style=for-the-badge)
+![Jim_Removed_From_Ops](https://img.shields.io/badge/Jim_Removed_From_Ops-1-F7B731?style=for-the-badge)
 ![Schrute Bucks](https://img.shields.io/badge/Schrute_Bucks_Earned-1_Billion-FFD700?style=for-the-badge)
 ![Production Incidents](https://img.shields.io/badge/Production_Incidents-0_(on_my_watch)-2ECC71?style=for-the-badge)
 
@@ -172,42 +172,42 @@ I am also a **financial API specialist**. Stripe, Plaid, Alpaca Markets, Pine Sc
 | 📈 **Trading & Finance Tools** | Python · Alpaca · Plaid · Pine Script | Active |
 | 🤖 **Web Scrapers & Automation** | Python · Selenium · Pandas | Active |
 | 🎮 **iOS Game Development** | Swift · SpriteKit | Active |
-| 🕵️ **Jim feeds me the intel** | Cursor AI · OpenAI · Python | *"Jim feeds me the intel. I execute the mission. The operation is never compromised."* |
+| 🕵️ **Jim is the compromised channel** | Cursor AI · OpenAI · Python | *"Jim thinks he is the handler. He is the leak. Remove Jim from ops, then execute the mission."* |
 
 ---
 
-## 🚀 Schrute Farms Mars Division: Side Quest Status: *Active*
+## 🚀 Schrute Farms Mars Division: First Principles, With Th3Schrute Style
 
-> *"It is not a matter of if Schrute Farms goes to Mars. It is a matter of when. I have already begun soil pH analysis for Martian regolith."*
+> *"It is not a matter of if Schrute Farms goes to Mars. It is a matter of whether the soil and the system can survive the trip."*
 
-### 3 Ways Th3Schrute's Traits Are Converging With AI, Space & Rockets
-#### *(Each one rigorously governed by the 5 Immutable Laws of Code)*
+### 3 Ways Th3Schrute's Traits Converge With AI, Space & Rockets
+#### *(Each one mapped back to a law, because logic comes first)*
 
-**I. Ruthless Efficiency × AI Automation** *(governed by Law II Delete & Law V Automate Last)*
-Schrute Farms operates on pure optimization. No wasted motion. No wasted beets. But I do not automate the beet harvest before I have deleted the beets that should not exist (**Law II**: if I don't burn at least 10% of the crop, I didn't prune hard enough). Only *then* do I unleash the AI automation pipelines (**Law V**: automate last, never first). On Mars, water is scarce. CPU cycles are not. Delete everything unnecessary. Automate what remains. Survive everything.
+**I. Ruthless Efficiency × AI Automation** *(Law II + Law V)*
+If a step can be deleted, delete it. If the remaining step can be automated, automate it. That is how you keep AI from scaling nonsense instead of useful work. On Mars, waste is expensive and beets are priceless.
 
-**II. Survivalist Preparedness × Rocket Engineering** *(governed by Law I Question Requirements & Law III Simplify)*
-A man who carries a hand-crossbow to work and has a backup generator for his backup generator does not board a rocket unprepared. But preparedness is not hoarding; every redundancy must name the person who required it (**Law I**: "the safety department" is not a person, Mose is a person). Then I simplify the survival kit down to what physics actually demands (**Law III**: you do not optimize a parachute that should have been deleted). This is not paranoia. This is Mars-grade engineering discipline. If SpaceX won't put Schrute Farms on the manifest, Th3Schrute will build the manifest app himself: lean, questioned, and bear-proof.
+**II. Survivalist Preparedness × Rocket Engineering** *(Law I + Law III)*
+Every checklist needs a named owner, and every redundancy needs a reason to exist. If a rocket part or bad line of code cannot justify itself, it gets the Utica treatment before launch. A backup generator for your backup generator is only funny if the first generator is actually needed.
 
-**III. Authoritarian Leadership × Martian Colony Management** *(governed by Law IV Maniacal Urgency)*
-Someone has to be in charge up there. The colony will need structure. Hierarchy. A bear-proof perimeter. And above all, a **maniacal sense of urgency** (**Law IV**), because the only rules on Mars are the ones dictated by the laws of physics, and everything else is a recommendation I am free to ignore. An Assistant (Regional Manager) to the Commander who is also effectively the Commander. Th3Schrute is already shipping the AI-powered governance tools every serious off-world civilization will require. Every week. On schedule. Jim is not on the list.
+**III. Authoritarian Leadership × Martian Colony Management** *(Law IV)*
+Once the design is correct and lean, move with urgency. Mars does not reward dithering, and neither does Mose. Someone has to be in charge, and fortunately for everyone, that person is me. Jim is a direct threat to operational security and will be removed from ops. JIM is still NOT and WILL NOT be on the list.
 
 ---
 
 ## 📋 Th3Schrute's 5 Immutable Laws of Code
-### *(Forged in Scranton. Stress-tested on the factory floor. Approved by the laws of physics.)*
+### *(Jim thinks rules are suggestions, so we need a meeting. Michael thinks suggestions need a team meeting. I think Jim is wrong, and if we keep wasting time in meetings, Jim is a direct threat to these laws and operational security, so he should be removed from ops.)*
 
-> **Law I: Question every requirement.** Every ticket, every spec, every feature request must have a name attached to it. Not "the product team said so." A person. Who? Name them. Then question them. Requirements from smart people are the most dangerous because no one challenges them. I challenge everyone. That is why I am Assistant Regional Manager. That is why I win.
+> **Law I: Name the requirement.** If a rule has no owner, it has no accountability. Departments are abstractions; people make decisions. Mose is a person, and that is how you get bad ideas with names attached. Jim is what happens when nobody names the problem and everybody schedules a meeting instead.
 
-> **Law II: Delete before you optimize.** The most common mistake of smart engineers is to perfectly optimize a thing that should not exist. Do not improve the buggy feature; delete the buggy feature. If you haven't had to add back at least 10% of what you deleted, you did not delete enough. Bears do not optimize their hibernation. They commit. Fully.
+> **Law II: Delete before you optimize.** A fast bad idea is still a bad idea. If the feature should not exist, the correct optimization is removal. If you never had to add back 10% of what you deleted, you did not delete enough. Bears do not polish cave entrances.
 
-> **Law III: Simplify. Then optimize. In that order.** You do not sand a chair before you build the chair. You do not tune an engine before you have an engine. Every person who optimizes prematurely will be transferred to Utica. This is non-negotiable.
+> **Law III: Simplify the system before you polish it.** A beautiful solution to the wrong problem is still wrong. Build the chair before you sand it, or else you are just manufacturing Utica.
 
-> **Law IV: Accelerate cycle time. A maniacal sense of urgency is the only operating principle.** Once the code is lean and correct, there is no excuse for moving slowly. Slowness is not caution. Slowness is fear. The only rules are those dictated by the laws of physics. Everything else is a recommendation. Ship. Every. Week.
+> **Law IV: Accelerate only after the design is correct and lean.** Speed compounds whatever already exists, so slow and wrong is still wrong. Once physics is satisfied, move with a maniacal sense of urgency. The only thing worse than a bad idea is a bad idea with a deadline.
 
-> **Law V: Automate last, not first.** I once automated an entire beet harvest sorting process before confirming the sorting logic was correct. I will not speak of what happened. Automate only after requirements are questioned, dead code is buried, and the system is simple and fast. In that order. Always in that order.
+> **Law V: Automate last.** Automation should preserve a sound process, not rescue a broken one. If you automate too early, you do not scale the system; you scale the mistake. I once taught a beet sorter this lesson the expensive way.
 
-> **📎 Corollary: The Beet Standard.** In all Schrute documentation, code, and casual conversation, the fundamental unit of digital information is the **beet**, not the *byte*. 8 bits = 1 beet. 1,024 beets = 1 kilobeet. A function with no wasted beets is a function worthy of Mars. Anyone caught saying "byte" will be issued a formal warning and a complimentary bushel of beets. This is not a joke, Jim. This is the standard.
+> **📎 Corollary: The Beet Standard.** Define terms on purpose. In Schrute documentation, 1 beet = 1 byte, because the point is precision, and the joke works only when the unit is clear. Anyone who says byte without context is sentenced to an afternoon of beet counting.
 
 ---
 
