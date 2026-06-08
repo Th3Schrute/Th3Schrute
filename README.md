@@ -190,17 +190,29 @@ Once the design is correct and lean, move with urgency. Mars does not reward dit
 ## 📋 Th3Schrute's 5 Immutable Laws of Code
 ### *(Jim thinks rules are suggestions, so we need a meeting. Michael thinks suggestions need a team meeting. I think Jim is wrong, and if we keep wasting time in meetings, Jim is a direct threat to these laws and operational security, so he should be removed from ops.)*
 
-> **Law I: Name the requirement.** If a rule has no owner, it has no accountability. Departments are abstractions; people make decisions. Mose is a person, and that is how you get bad ideas with names attached. Jim is what happens when nobody names the problem and everybody schedules a meeting instead.
+> <strong><span style="color:#FFFFFF;background:#161b22;padding:4px 10px;border-radius:6px;">Law I: Name the requirement.</span></strong>
+>
+> If a rule has no owner, it has no accountability. Departments are abstractions; people make decisions. Mose is a person, and that is how you get bad ideas with names attached. Jim is what happens when nobody names the problem and everybody schedules a meeting instead.
 
-> **Law II: Delete before you optimize.** A fast bad idea is still a bad idea. If the feature should not exist, the correct optimization is removal. If you never had to add back 10% of what you deleted, you did not delete enough. Bears do not polish cave entrances.
+> <strong><span style="color:#FFFFFF;background:#161b22;padding:4px 10px;border-radius:6px;">Law II: Delete before you optimize.</span></strong>
+>
+> A fast bad idea is still a bad idea. If the feature should not exist, the correct optimization is removal. If you never had to add back 10% of what you deleted, you did not delete enough. Bears do not polish cave entrances.
 
-> **Law III: Simplify the system before you polish it.** A beautiful solution to the wrong problem is still wrong. Build the chair before you sand it, or else you are just manufacturing Utica.
+> <strong><span style="color:#FFFFFF;background:#161b22;padding:4px 10px;border-radius:6px;">Law III: Simplify the system before you polish it.</span></strong>
+>
+> A beautiful solution to the wrong problem is still wrong. Build the chair before you sand it, or else you are just manufacturing Utica.
 
-> **Law IV: Accelerate only after the design is correct and lean.** Speed compounds whatever already exists, so slow and wrong is still wrong. Once physics is satisfied, move with a maniacal sense of urgency. The only thing worse than a bad idea is a bad idea with a deadline.
+> <strong><span style="color:#FFFFFF;background:#161b22;padding:4px 10px;border-radius:6px;">Law IV: Accelerate only after the design is correct and lean.</span></strong>
+>
+> Speed compounds whatever already exists, so slow and wrong is still wrong. Once physics is satisfied, move with a maniacal sense of urgency. The only thing worse than a bad idea is a bad idea with a deadline.
 
-> **Law V: Automate last.** Automation should preserve a sound process, not rescue a broken one. If you automate too early, you do not scale the system; you scale the mistake. I once taught a beet sorter this lesson the expensive way.
+> <strong><span style="color:#FFFFFF;background:#161b22;padding:4px 10px;border-radius:6px;">Law V: Automate last.</span></strong>
+>
+> Automation should preserve a sound process, not rescue a broken one. If you automate too early, you do not scale the system; you scale the mistake. I once taught a beet sorter this lesson the expensive way.
 
-> **📎 Corollary: The Beet Standard.** Define terms on purpose. In Schrute documentation, 1 beet = 1 byte, because the point is precision, and the joke works only when the unit is clear. Anyone who says byte without context is sentenced to an afternoon of beet counting.
+> <strong><span style="color:#FFFFFF;background:#161b22;padding:4px 10px;border-radius:6px;">📎 Corollary: The Beet Standard.</span></strong>
+>
+> Define terms on purpose. In Schrute documentation, 1 beet = 1 byte, because the point is precision, and the joke works only when the unit is clear. Anyone who says byte without context is sentenced to an afternoon of beet counting.
 
 ---
 
