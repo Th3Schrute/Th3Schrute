@@ -26,13 +26,6 @@
 > *Read me wrong on this farm and you'll call it a typo,*
 > *but what am I, harvested by computers and Schrutes alike?*
 
-<details>
-<br>
-
-On this profile, the unit of information is the **beet**, not the *byte*. **1 beet = 1 byte.** It is not a typo. It is doctrine. *(See: The Beet Standard, below.)*
-
-</details>
-
 </div>
 
 ---
