@@ -135,9 +135,19 @@ At the core, I work from first principles: define the constraint, remove the was
 
 <div align="center">
 
-![Th3Schrute 2026 Stats](https://github-readme-stats.vercel.app/api?username=Th3Schrute&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=false&custom_title=2026+Contributions+%28YTD%29)
+### ⚡ Operational Metrics *(declassified)*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Schrute&layout=compact&theme=gruvbox&hide_border=true)
+![Commits](https://img.shields.io/badge/Commits_(all_time)-1000%2B-F7B731?style=for-the-badge)
+![Pull Requests](https://img.shields.io/badge/Pull_Requests-45-2ECC71?style=for-the-badge)
+![Public Repos](https://img.shields.io/badge/Public_Repositories-51-3498DB?style=for-the-badge)
+
+### 🎯 Schrute Performance Index
+
+![Performance Rating](https://img.shields.io/badge/Performance_Rating-A%2B_(Top_12.5%25)-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Security Clearance](https://img.shields.io/badge/Security_Clearance-Level_5-8B0000?style=for-the-badge)
+![Deployment Status](https://img.shields.io/badge/Deployment_Status-Shipping-2ECC71?style=for-the-badge)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Schrute&layout=compact&theme=gruvbox&hide_border=true&langs_count=6)
 
 ### 🗂️ Classified Field Metrics *(declassified for recruiters only)*
 
@@ -149,8 +159,8 @@ At the core, I work from first principles: define the constraint, remove the was
 ![Schrute Bucks](https://img.shields.io/badge/Schrute_Bucks_Earned-1_Billion-FFD700?style=for-the-badge)
 ![Production Incidents](https://img.shields.io/badge/Production_Incidents-0_(on_my_watch)-2ECC71?style=for-the-badge)
 
-> *Most contributions are in private repositories, classified under Schrute Security Clearance Level 5.*
-> *The numbers you see here are merely what I allow you to see.*
+> *Most contributions live in private repositories under Schrute Security Clearance Level 5.*
+> *Public GitHub percentile rankings do not account for classified work. The index above reflects actual output.*
 
 </div>
 
