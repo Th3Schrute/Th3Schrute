@@ -19,14 +19,38 @@
 
 <div align="center">
 
-### 🌱 A Riddle Before You Continue
-
-> *Eight bits to a bunch, the smallest you'll compute,*
-> *yet I grow in dark soil, pulled crimson from the root.*
-> *Read me wrong on this farm and you'll call it a typo,*
-> *but what am I, harvested by computers and Schrutes alike?*
+### 🌱 Name me.
 
 </div>
+
+<blockquote>
+<p>
+I am (2<sup>3</sup>) of the indivisible pulse, yet I am not that pulse—<br>
+the first addressable mouthful, a bite that shed a letter<br>
+so I would not be mistaken for my own ingredient.
+</p>
+<p>
+I am, in the next kingdom, the second glyph's quiet namesake:<br>
+a taproot steeped in a pigment that is not anthocyanin,<br>
+drawn crimson from the loam—radix in the tongue<br>
+that means both root and base.
+</p>
+<p>
+Over both kingdoms, a third: no loam, no down but the one you burn.<br>
+There the taproot takes its gravity from a rocket's throat,<br>
+and I am stowed twice inside the hull—<br>
+downlink in the buffer, crimson in the canteen.<br>
+The closed loop eats of me and counts in me.
+</p>
+<p>
+Uttered, the kingdoms collapse to one word.<br>
+Inscribed, they are a solecism apart.<br>
+The ALU loads the register;<br>
+the Assistant to (never of) loads the cellar;<br>
+and both, before long, stoop inside a fairing<br>
+to farm the dark above every acre.
+</p>
+</blockquote>
 
 ---
 
