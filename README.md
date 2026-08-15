@@ -25,20 +25,20 @@
 
 <blockquote>
 <p>
-I am (2<sup>3</sup>) of the indivisible pulse, yet I am not that pulse—<br>
+I am (2<sup>3</sup>) of the indivisible pulse, yet I am not that pulse:<br>
 the first addressable mouthful, a bite that shed a letter<br>
 so I would not be mistaken for my own ingredient.
 </p>
 <p>
 I am, in the next kingdom, the second glyph's quiet namesake:<br>
 a taproot steeped in a pigment that is not anthocyanin,<br>
-drawn crimson from the loam—radix in the tongue<br>
+drawn crimson from the loam: radix in the tongue<br>
 that means both root and base.
 </p>
 <p>
 Over both kingdoms, a third: no loam, no down but the one you burn.<br>
 There the taproot takes its gravity from a rocket's throat,<br>
-and I am stowed twice inside the hull—<br>
+and I am stowed twice inside the hull:<br>
 downlink in the buffer, crimson in the canteen.<br>
 The closed loop eats of me and counts in me.
 </p>
